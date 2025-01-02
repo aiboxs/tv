@@ -1,10 +1,10 @@
 {
 "spider":"./jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506",
 "lives":[
-{"name":"Live","type":0,"url":"https://raw.gitcode.com/lmbox/Ipv4/raw/main/ipv4zb.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
+{"name":"Live","type":0,"url":"https://raw.gitcode.com/lmbox/live/raw/main/zb.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
 ],
 "sites": [
-{"key":"豆瓣2","name":"🚩IPV4备用「开启IPV6高清流畅」","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"🚩IPV6畅享极速生活｜备用","type":3,"api":"csp_Douban","searchable":0},
 
 
 
