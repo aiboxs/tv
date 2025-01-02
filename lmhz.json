@@ -155,8 +155,7 @@
 {"key": "直播转点播","name": "📺电视┃直播","type": 3,"api": "./lib/live.js","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://xn--tkh-mf3g9f.v.nxog.top/m//json/live.php?ou=公众号欧歌APP"},
 
 {"key":"本地","name":"🌸本地｜视频","type":3,"api":"csp_LocalFile"},
-{"key":"push_agent","name":"🎱推送┃电视","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=bili&ou=公众号欧歌app;md5;11b2cc3aa7b71c95eba520bdd0458b68",ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc"}},
-{"key": "应用商店","name": "🛒影视应用商店","type": 3,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"}
+{"key":"push_agent","name":"🎱推送┃电视","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"jar":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=bili&ou=公众号欧歌app;md5;11b2cc3aa7b71c95eba520bdd0458b68",ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc"}}
 
 ],
 
